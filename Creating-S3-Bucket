@@ -1,0 +1,11 @@
+Step1: Bucket type is general purpose
+
+Step2: Set the Bucket name unique 
+
+Step3: Object Ownership is "ACLs is disabled"
+
+Step4: uncheck the "Block Public Access settings for this bucket"
+
+Step5: And check the "acknowledge" of public access
+
+Step6: Create Bucket
